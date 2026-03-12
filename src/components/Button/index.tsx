@@ -1,4 +1,3 @@
-/** biome-ignore-all lint/suspicious/noExplicitAny: onClick Returning anything */
 "use client";
 
 import MuiButton, {

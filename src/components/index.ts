@@ -3,3 +3,7 @@ export * from "./Button";
 export * from "./Checkbox";
 export * from "./DateInput";
 export * from "./Input";
+export * from "./InputOTP";
+export * from "./Radio";
+export * from "./Snackbar";
+export * from "./Table";

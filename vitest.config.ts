@@ -26,6 +26,8 @@ export default defineConfig({
         'src/vite-env.d.ts',
         'src/types/',
         'src/index.ts',
+        'src/components/index.ts',
+        'src/utils/index.ts'
       ]
     },
     include: ['src/tests/**/*.{test,spec}.{ts,tsx}'],
